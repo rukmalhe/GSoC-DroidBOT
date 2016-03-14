@@ -28,17 +28,17 @@ In 2016, one of the [HoneyNet](https://honeynet.org) project proposal is
 ==========================
 + I'm new to Android application development, therefore need to fulfil the knowlege gap, Therefore I will following the [Udaciy Android Development CoursSetup environment] (https://www.udacity.com/course/viewer#!/c-ud853) for 1st month (Jan 2016).
 + The second milestone is to setup Android and Drodbot application and Analysing the features of existing project. This will take another 1 month (Feb 2016)
-1. Setup environment - 1 week
-2. Identifying existing features (working on obsolete Dalvik system) - 2 weeks
-3. Create Test Cases and Test Plan -1 week
-4. Test Execution  - 1 week
+1. Setup environment - 1 week (legend : medium)
+2. Identifying existing features (working on obsolete Dalvik system) - 2 weeks (legend : medium)
+3. Create Test Cases and Test Plan -1 week (legend : medium)
+4. Test Execution  - 1 week (legend : medium)
 + Then I will work with the Coding and start work with the Development. The Development effort will be approximately 3 months starting from March 2016.
-1. Upgrade runtime environment to ART - 2 week
-2. Compiling and fixing compilation errors on ART - 4 weeks
-3. Execute Test Cases and identifying issues - 2 weeks 
-4. Fixing broken features - 4 weeks
+1. Upgrade runtime environment to ART - 2 week (legend : medium)
+2. Compiling and fixing compilation errors on ART - 4 weeks (legend : hard)
+3. Execute Test Cases and identifying issues - 2 weeks (legend : medium)
+4. Fixing broken features - 4 weeks (legend : hard)
 + Finally preparing the project report will take another 1 month approximately.
-1. Preparing Draf 3 weeks
+1. Preparing Draf 3 weeks (legend : medium)
 2. Proof Reading 1 week
 
 3. About me
