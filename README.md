@@ -4,8 +4,8 @@ DroidBot Google Summer of Code 2016 HoneyNet Project
 Table of content
 ================
 1. **Abstract** 
-2. **Schedule and milestones**
-3. **About me**
+2. **Schedule and milestones** 
+3. **About me** 
 
 1. Abstract
 ===========
