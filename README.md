@@ -5,11 +5,9 @@ Table of content
 ================
 
 1. **Abstract** 
-2. **
-3. ****
-4. **
-5. **About me**
-6. 
+2. **Schedule and milestones
+3. **About me**
+
 
 1. Abstract
 ===========
@@ -21,9 +19,33 @@ In 2016, one of the [HoneyNet](https://honeynet.org) project proposal is
 
 1.2 Goals
 ---------
-DroidBox is developed to offer dynamic analysis of Android applications. Already developed open source project has to work on new Android ART (Android Runtime). The goal of this project is to build a dynamic malware analysis system on ART, which allows users to monitor the execution of potentially malicious apps. This includes the following sub-goals:
+[DroidBot] (https://honeynet.org/node/1317) is developed to offer dynamic analysis and static analysis of Android applications. It uses Droitbox for dynamic analysis. Since [DroidBox] (http://www.honeynet.org/project/droidbox) is not compatible with [ART](https://en.wikipedia.org/wiki/Android_Runtime), the goal of this project is to enhance the [DroidBot] (https://honeynet.org/node/1317) features and enabling the [DroidBox] (http://www.honeynet.org/project/droidbox) to work on [ART](https://en.wikipedia.org/wiki/Android_Runtime). This includes the following sub-goals:
 
  + Monitoring function calls
  + Modifying parameters/return value before/after function's execution
  + Dumping objects' contents
  + Reporting layer that is compatible with existing systems
+ 
+2. Schedule and milestones
+==========================
++ I'm new to Android application development, therefore need to fulfil the knowlege gap, Therefore I will following the [Udaciy Android Development Course] (https://www.udacity.com/course/viewer#!/c-ud853) for 1st month (Jan 2016).
+
++ The second milestone is to setup Android and Drodbot application and Analysing the features of existing project. This will take another 1 month (Feb 2016)
++ + Setup environment - 1 week
++ + Identifying existing features (working on obsolete Dalvik system) - 2 weeks
++ + Create Test Cases and Test Plan -1 week
++ + Test Execution  - 1 week
+
++ Then I will work with the Coding and start work with the Development. The Development effort will be approximately 3 months starting from March 2016.
++ + Upgrade runtime environment to ART - 2 week
++ + Compiling and fixing compilation errors on ART - 4 weeks
++ + Execute Test Cases and identifying issues - 2 weeks 
++ + Fixing broken features - 4 weeks
++ Finally preparing the project report will take another 1 month approximately.
+++ Preparing Draf 3 weeks
+++ Proof Reading 1 week
+
+3. About me
+============
+I am work as QA tech lead working for a reputed international company, and having more than 10 years industrial experience. Having Java development skills when automating the test scripts is my strong point. Currently following Cyber Security MSC course in [SLITT](http://www.sliit.lk/) university. This is my final year of the MSC and I already submitted my proposal to campus and have started working on the this project.
+
