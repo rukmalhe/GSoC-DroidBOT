@@ -23,10 +23,7 @@ In 2016, one of the [HoneyNet](https://honeynet.org) project proposal is
 ---------
 DroidBox is developed to offer dynamic analysis of Android applications. Already developed open source project has to work on new Android ART (Android Runtime). The goal of this project is to build a dynamic malware analysis system on ART, which allows users to monitor the execution of potentially malicious apps. This includes the following sub-goals:
 
- • Monitoring function calls
-
- • Modifying parameters/return value before/after function's execution
-
- • Dumping objects' contents
-
- • Reporting layer that is compatible with existing systems
+ + Monitoring function calls
+ + Modifying parameters/return value before/after function's execution
+ + Dumping objects' contents
+ + Reporting layer that is compatible with existing systems
