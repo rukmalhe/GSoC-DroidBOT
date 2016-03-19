@@ -1,4 +1,3 @@
-oC-DroidBOT
 DroidBot Google Summer of Code 2016 HoneyNet Project
 *****************************************************
 Table of content
