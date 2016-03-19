@@ -3,8 +3,8 @@ DroidBot Google Summer of Code 2016 HoneyNet Project
 *****************************************************
 Table of content
 ================
-1. **Abstract** 
-2. **Schedule and milestones** 
+1. **Abstract**
+2. **Schedule and milestones**
 3. **About me** 
 
 1. Abstract
@@ -45,3 +45,20 @@ In 2016, one of the [HoneyNet](https://honeynet.org) project proposal is
 ============
 I am work as QA tech lead working for a reputed international company, and having more than 10 years industrial experience. Having Java development skills when automating the test scripts is my strong point. Currently following Cyber Security MSC course in [SLITT](http://www.sliit.lk/) university. This is my final year of the MSC and I already submitted my proposal to campus and have started working on the this project.
 
+Professional Qualifications
+===========================
+Linkedin profile [here](http://lk.linkedin.com/in/rukmalhewawasam)
+
+Master of Science (MSc), Specializing in Cyber Security
+
+Successfully Completed Udacity [Course introuduction to Computer Science building a search engine using Python](https://github.com/rukmalhe/GSoC-DroidBOT/blob/master/certificate.pdf)
+
+Professional Graduate Diploma in IT, [British Computer Society](https://www.bcs.org/)
+
+Skills
+======
+Java, Test Automation, Oracle, Python,
+
+Projects
+========
+1st year research project - A GUI for the Volatility Framework
